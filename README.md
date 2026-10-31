@@ -1,2 +1,3 @@
-# Optical-communication
-AI based projects on Optical communication
+# AI-Driven Optimization in Optical Communication
+This repository aggregates a suite of  machine learning and advanced artificial intelligence frameworks dedicated to optimizing next-generation optical communication infrastructure. As data-center traffic experiences exponential growth, the energy consumption (J/bit) and physical non-linearities of optoelectronic links have become critical bottlenecks.
+The objective of this portfolio is to design, simulate, and deploy agentic AI frameworks, deep neural architectures, and unsupervised models that jointly optimize optical hardware components and complex signal waveforms. By embedding physical communication principles directly into data-driven models, these projects successfully maximize spectral and power efficiency while sustaining high data rates.
